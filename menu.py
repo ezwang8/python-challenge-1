@@ -214,8 +214,8 @@ for item in order:
     quantity = item["Quantity"]
 
     # 8. Calculate the number of spaces for formatted printing
-    item_name_width = 26
-    price_width = 8
+    item_name_width = 25
+    price_width = 5
     quantity_width = 8
     item_spaces = item_name_width - len(item_name)
     price_spaces = price_width - len(f"{price:.2f}")
