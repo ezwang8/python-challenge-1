@@ -30,7 +30,7 @@ This project allows customers to place their orders offered by the food truck. I
   - Type the amount of that item you'd like to buy.
   
 - **Continue Ordering or Complete Order:**
-  - You'll be given 2 options after completing your order. Press 'Y' to make another order or 'N' to say you're finished ordering.
+  - You'll be given 2 options after completing your order. Press 'Y' to make another order or 'N' to finish ordering.
   
 - **Receipt:**
   A receipt will be given to you. It show each item you ordered, the item's price, the quantity of that item you've purchased, and the total cost of all of your order(s).
