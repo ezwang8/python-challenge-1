@@ -4,8 +4,8 @@
   **Link**: [GeeksforGeeks: Convert String to Integer in Python](https://www.geeksforgeeks.org/convert-string-to-integer-in-python/)  
   **Concepts Used**: This website talks about converting strings into integers.
   **Instances**:
-  - **Problem 3**: For converting `menu_selection` to an integer.
-  - **Problem 4**: For converting `quantity` to an integer after checking if it's a number.
+  - **Problem 3**: For converting the menu_selection to an integer.
+  - **Problem 4**: For converting the quantity to an integer after checking if it's a number.
 
 - **GeeksforGeeks - Conditional Statements in Python**  
   **Link**: [GeeksforGeeks: Conditional Statements in Python](https://www.geeksforgeeks.org/conditional-statements-in-python/)  
