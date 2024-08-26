@@ -26,7 +26,7 @@ This project allows customers to place their orders offered by the food truck. I
   Type a number that represents the menu category you'd like to choose.
   
 - **Placing an Order:**
-  - Type the corresponding to select an item.
+  - Type the item's number to select it.
   - Type the amount of that item you'd like to buy.
   
 - **Continue Ordering or Complete Order:**
